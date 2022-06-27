@@ -1,47 +1,38 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
+<h1 align="center">Hi 👋, I'm Shubham Kumar Anand</h1>
+<h3 align="center">A passionate full stack MERN developer from India</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=imskanand.imskanand)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imskanand&label=Profile%20views&color=0e75b6&style=flat" alt="imskanand" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imskanand" alt="imskanand" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/imskanand" target="blank"><img src="https://img.shields.io/twitter/follow/imskanand?logo=twitter&style=for-the-badge" alt="imskanand" /></a> </p>
+
+- 🔭 I’m currently working on **Social Media Site**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 👯 I’m looking to collaborate on **Full stack Projects**
+
+- 💬 Ask me about **React, Node & Mongo**
+
+- 📫 How to reach me **ishubham11anand@gmail.com**
+
+- ⚡ Fun fact **I love free food...😎**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imskanand" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.in/shubham-kumar-anand-19b52618b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.in/shubham-kumar-anand-19b52618b/" height="30" width="40" /></a>
+<a href="https://instagram.com/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imskanand" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imskanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imskanand" height="30" width="40" /></a>
 </p>
-<div size='20px'> Hi! My name is Shubham Kumar Anand. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imskanand&show_icons=true&locale=en&layout=compact" alt="imskanand" /></p>
 
-- 🔭 I’m currently working on Block-Chain and Etherium 2.0
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imskanand&show_icons=true&locale=en" alt="imskanand" /></p>
 
-- 🌱 I’m currently learning DevOps and Flutter 
-
-- 👯 I’m looking to collaborate on Projects 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
-
-<h2> Skills</h2>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-<a href= https://github.com/imskanand?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-
-
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-kumar-anand-19b52618b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/imskanand'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'imskanand.github.io/portfolio'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/imskanand'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-<h2> My GitHub Stats  </h2>
-
-![Metrics](https://metrics.lecoq.io/imskanand?template=classic&config.timezone=America%2FToronto)
-
-<h2> Some Programming Humor for you </h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imskanand&" alt="imskanand" /></p>
 
