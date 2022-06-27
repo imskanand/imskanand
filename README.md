@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-ishubham11anand-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"  height="28"></a>
 
 <a href="https://drive.google.com/file/d/16_b_F-9lgx1M2k-3qsfj2BxjK_k5Ist_/view?usp=sharing">
-<img src="https://img.shields.io/badge/%20%F0%9F%93%9C-Resume-brightgreen&style=flat&labelColor=c0392b" height="28></a>
+<img src="https://img.shields.io/badge/%20%F0%9F%93%9C-Resume-brightgreen&style=flat&labelColor=c0392b" height="28"></a>
 
 </div>
 <div>
